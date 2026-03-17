@@ -54,11 +54,11 @@ A high-performance algorithm designed to solve the classic $N \times N$ Magic Sq
    <table border="0">
       <tr>
          <td>
-            <img src="./Assets/sqr1.png" alt="Magic square 4 & 3" width="165">
+            <img src="./Assets/Sqr1.png" alt="Magic square 4 & 3" width="165">
             <br><em>Magic square 4 & 3</em>
          </td>
          <td>
-            <img src="./Assets/sqr2.png" alt="Magic square 5" width="204">
+            <img src="./Assets/Sqr2.png" alt="Magic square 5" width="204">
             <br><em>Magic square 5</em>
          </td>
       </tr>
